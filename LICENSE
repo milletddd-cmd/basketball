@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+### Third-Party Notices and Attributions
+
+This project utilizes the following third-party models and AI technologies:
+
+1. **Google MediaPipe Pose Landmarker**: This application uses Google's MediaPipe technology for human pose detection and skeletal landmark estimation.
+2. **Google Gemini**: Utilized for project architectural guidance, coding assistance, and implementation support.
+3. **OpenAI ChatGPT (GPT-5.6 Luna)**: Utilized for logical optimization, creative problem-solving, and development support during the project lifecycle.
