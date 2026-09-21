@@ -1,38 +1,38 @@
 # 🏀 Basketball Training Assistant
 
-一个基于 AI 的篮球训练辅助系统，旨在通过实时动作捕捉和数据分析，帮助球员更高效地提升训练质量。
+An AI-powered basketball training assistance system designed to help players improve their training quality through real-time motion capture and data analysis.
 
-## 🌟 核心功能
+## 🌟 Core Features
 
-- **实时骨骼识别**：利用计算机视觉技术精准捕捉人体 33 个关键点。
-- **动作姿态分析**：实时计算肘部、膝盖等关键关节的角度。
-- **训练反馈**：通过直观的 UI 界面为用户提供实时的运动数据展示。
+- **Real-time Pose Recognition**: Utilizing computer vision technology to accurately capture 33 human skeletal landmarks.
+- **Motion Pose Analysis**: Real-time calculation of key joint angles such as elbows and knees.
+- **Training Feedback**: Providing users with real-time athletic data display through an intuitive UI.
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 - **Android SDK**: 35 (VanillaIceCream)
-- **Jetpack Compose**: 声明式 UI 框架
-- **CameraX**: 稳定高效的摄像头接入
-- **MediaPipe Tasks Vision**: 高性能姿态识别引擎
-- **Kotlin**: 全面采用协程与现代语法
+- **Jetpack Compose**: Declarative UI framework
+- **CameraX**: Stable and efficient camera integration
+- **MediaPipe Tasks Vision**: High-performance pose estimation engine
+- **Kotlin**: Fully utilizing Coroutines and modern syntax
 
-## 🤖 核心贡献者 (Contributors)
+## 🤖 Core Contributors
 
-本项目不仅是代码的结晶，更是人类创意与人工智能协作的成果：
+This project is the result of a collaboration between human creativity and Artificial Intelligence:
 
-- **Human Developer**: [sczn9np4bd-ux](https://github.com/milletddd-cmd)
-- **Google Gemini**: 负责项目架构设计、MediaPipe 集成及代码优化指导。
-- **OpenAI ChatGPT (GPT-5.6 Luna)**: 负责复杂逻辑演算、创新功能设计及开发流程支持。
+- **Human Developer**: [milletddd-cmd](https://github.com/milletddd-cmd)
+- **Google Gemini**: Responsible for project architectural design, MediaPipe integration, and code optimization guidance.
+- **OpenAI ChatGPT (GPT-5.6 Luna)**: Responsible for complex logic calculations, innovative feature design, and development workflow support.
 
-## 📄 许可证
+## 📄 License
 
-本项目采用 [MIT License](LICENSE)。
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🚀 如何运行
+## 🚀 How to Run
 
-1. 克隆仓库到本地。
-2. 使用 Android Studio 打开项目。
-3. 连接物理设备或使用 ARM 架构的模拟器。
-4. 点击 `Run` 即可开始你的 AI 篮球训练。
+1. Clone the repository to your local machine.
+2. Open the project using Android Studio.
+3. Connect a physical device or use an ARM-based emulator.
+4. Click `Run` to start your AI basketball training.
