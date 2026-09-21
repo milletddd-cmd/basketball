@@ -14,7 +14,7 @@
         <option name="selectionMode" value="DROPDOWN" />
         <DialogSelection />
       </SelectionState>
-      <SelectionState runConfigName="main">
+      <SelectionState runConfigName="New Run Config">
         <option name="selectionMode" value="DROPDOWN" />
         <DialogSelection />
       </SelectionState>

@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera.any" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -10,7 +13,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.BasketballTraining">
+        android:theme="@style/Theme.BasketballTraining"
+        android:extractNativeLibs="true"
+        tools:replace="android:extractNativeLibs"
+        tools:targetApi="31">
         <activity
             android:name=".MainActivity"
             android:exported="true"
