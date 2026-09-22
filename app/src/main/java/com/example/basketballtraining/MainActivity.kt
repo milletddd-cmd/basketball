@@ -456,7 +456,7 @@ fun TrainingScreen(
 
                 Text(
 
-                    "允许摄像头 Permission"
+                    "允许摄像头权限 Allow Camera Permission"
 
                 )
 
